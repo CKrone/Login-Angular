@@ -9,13 +9,13 @@
 
 ![Tela Inicial](https://user-images.githubusercontent.com/86797383/191352478-3a1876f8-e83e-4614-b96b-a5e8a33fb56d.jpg)
 <ul>
-  <li>O botão login fica desabilitado caso os campos Email e Senha estejam vazios</li> 
+  <li>O botão login fica desabilitado caso os campos Email e Senha estejam vazios.</li> 
 </ul>
 
 ![Tela Inicial com botão ativo](https://user-images.githubusercontent.com/86797383/191352829-83bbad67-aa29-4a59-86c0-6dfe376dcd4b.jpg)
 
 <ul>
-  <li>O botão login habilitado</li> 
+  <li>O botão login habilitado.</li> 
 </ul>
 
 ![Tela Inicial Login Erro](https://user-images.githubusercontent.com/86797383/191353016-d983e3b1-4a94-4228-86d0-939dcdb85510.jpg)
@@ -33,7 +33,7 @@
 ![Tela Inicial Login Acess](https://user-images.githubusercontent.com/86797383/191353350-ebb9cf0a-9884-45e1-afb0-ed37b652b861.jpg)
 
 <ul>
-  <li>Caso as validações estejam corretas, é feito o login</li> 
-  <li>O botão Sair limpa o token de acesso e redireciona o usuário para a tela inicial</li>
+  <li>Caso as validações estejam corretas, é feito o login;</li> 
+  <li>O botão Sair limpa o token de acesso e redireciona o usuário para a tela inicial;</li>
   <li>É feito através do guard, a proteção da rota, evitando que o usuário acesse a página sem ter acesso permitido.</li>
 </ul>
