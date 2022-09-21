@@ -35,5 +35,5 @@
 <ul>
   <li>Caso as validações estejam corretas, é feito o login;</li> 
   <li>O botão Sair limpa o token de acesso e redireciona o usuário para a tela inicial;</li>
-  <li>É feito através do guard, a proteção da rota, evitando que o usuário acesse a página sem ter acesso permitido.</li>
+  <li>É feito através do guard, a proteção da rota, evitando que o usuário acesse a página sem permissão.</li>
 </ul>
